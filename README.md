@@ -35,7 +35,7 @@
 <kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ke.svg" width="22">](docs/translations/README.kws.md)</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kr.svg" width="22">](docs/translations/README.ko.md)</kbd>
 <kbd>[<img title="Lietuvių kalba" alt="Lietuvių kalba" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lt.svg" width="22">](docs/translations/README.lt.md)</kbd>
-<kbd>[<img title="Limba Română" alt="Limba Română" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/md.svg" width="22"> <img title="Limba Română" alt="Limba Română" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ro.svg" width="22">](docs/translations/README.ro.md)</kbd>
+<kbd>[<img title="Limba Română" alt="Limba Română" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/md.svg" width="22">/<img title="Limba Română" alt="Limba Română" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ro.svg" width="22">](docs/translations/README.ro.md)</kbd>
 <kbd>[<img title="မြန်မာ" alt="မြန်မာ" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mm.svg" width="22">](docs/translations/README.mm_unicode.md)</kbd>
 <kbd>[<img title="Македонски" alt="Македонски" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mk.svg" width="22">](docs/translations/README.mk.md)</kbd>
 <kbd>[<img title="Español de México" alt="Español de México" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mx.svg" width="22">](docs/translations/README.mx.md)</kbd>
